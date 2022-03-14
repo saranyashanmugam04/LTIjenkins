@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="false">
   <test name="Test1">
     <classes>
-      <class name="day4.Scenario1"/>
+      <class name="day6.ExtentReportTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
